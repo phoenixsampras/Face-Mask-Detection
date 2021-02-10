@@ -128,7 +128,7 @@ while True:
 		color = (0, 255, 0) if label == "Mask" else (0, 0, 255)
 		if label == "No Mask":
 			notification.notify(
-				title = "***No Mask Detected***",
+				title = "***MOCOSO MUGROSO DETECTADO***",
                 		message = "Wear Mask to stay safe! ",
                 		app_icon = "images/1.ico",    #ico file should be downloaded
                 		timeout = 1
